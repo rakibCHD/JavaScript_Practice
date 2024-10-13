@@ -1,1 +1,1 @@
-# JavaScript_Practice
+# Contains some of JavaScript task
