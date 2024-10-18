@@ -28,4 +28,4 @@ readline.question('Enter a number: ', (input) => {
     }
     readline.close();
 });
-
+ 
