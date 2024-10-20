@@ -2,7 +2,7 @@ const readline = require('readline').createInterface({
     input: process.stdin,
     output: process.stdout
   });
-  
+   
   function evenOrOdd(number) {
     return number % 2 === 0 ? "Even" : "Odd";
   }
